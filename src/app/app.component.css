@@ -1,0 +1,20 @@
+td{
+    background: orange;
+    color: black;
+    padding: 5px;
+}
+th{
+    background:red;
+    color: linen;
+    padding: 5px;
+}
+input{
+    height: 20px;
+    width: 260px;
+}
+button{
+    height: 30px;
+    width: 65px;
+    background : white;
+    color: black;
+}
